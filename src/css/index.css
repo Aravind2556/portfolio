@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black !important;
+}
+.Navvar_icon_icon{
+    display: none;
+}
+.Home_backGround{
+    height: 660px;
+    width: 100vw;
+}
+.Home_Name {
+    border:  2px solid yellow;
+    width: 600px;
+    height: 350px;
+  
+    align-items: center;
+}
+
+/* @media (max-width: 640px) {
+    .Navbar_header {
+        width: 100vw;
+        background-color: black;
+        color: white;
+        position: fixed;
+    }
+    .Navvar_icon{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .Navvar_icon_icon{
+        display: flex;
+        position: relative;
+        left: 100%;
+    }
+    .Navbar_content{
+        display: inline;
+        background-color: rgb(101, 99, 99);
+        position: relative;
+        top: 150px;
+        
+
+    }
+    .Navbar_content_title{
+        background-color: rgb(13, 13, 13);
+        width: 250px;
+        height: 40px;
+        color: white;
+        font-size: 20px;
+        font-weight: 100;
+        border-radius: none;
+    }
+}
+
+@media (max-width: 640px) or (max-width: 940px) {
+    .Navbar_header {
+        width: 100vw;
+        background-color: black;
+        color: white;
+        position: fixed;
+    }
+    .Navvar_icon{
+        display: flex;
+       
+        align-items: center;
+    }
+    .Navvar_icon_icon{
+        display: flex;
+        position: relative;
+        left: 100%;
+      
+    }
+    .Navbar_content{
+        display: inline;
+        background-color: rgb(101, 99, 99);
+        position: relative;
+        top: 150px;
+        left: 60px;
+        
+
+    }
+    .Navbar_content_title{
+        background-color: rgb(13, 13, 13);
+        width: 250px;
+        height: 40px;
+        color: white;
+        font-size: 20px;
+        font-weight: 100;
+        border-radius: none;
+    }
+
+} */
