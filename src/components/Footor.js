@@ -13,17 +13,20 @@ export const Footor = () => {
 
         {/* Social Links */}
         <div className="space-x-6 text-lg">
-          <a href="https://wa.me/yourphonenumber" target="_blank" className="hover:text-indigo-400">
+          <a href="https://wa.me/8248221211" target="_blank" className="hover:text-indigo-400">
             <i className="fab fa-whatsapp"></i> WhatsApp
           </a>
-          <a href="mailto:your.email@example.com" className="hover:text-indigo-400">
+          <a href="mailto:your.aravindaravind2556@gmail.com" className="hover:text-indigo-400">
             <i className="fas fa-envelope"></i> Email
           </a>
-          <a href="https://github.com/yourusername" target="_blank" className="hover:text-indigo-400">
+          <a href="https://github.com/Aravind2556?tab=repositories" target="_blank" className="hover:text-indigo-400">
             <i className="fab fa-github"></i> GitHub
           </a>
-          <a href="tel:+1234567890" className="hover:text-indigo-400">
+          <a href="tel:+8248221211" className="hover:text-indigo-400">
             <i className="fas fa-phone-alt"></i> Phone
+          </a>
+          <a href="www.linkedin.com/in/d-aravindan" className="hover:text-indigo-400">
+            <i className="fas fa-phone-alt"></i> Linkdin
           </a>
         </div>
       </div>
