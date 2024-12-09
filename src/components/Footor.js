@@ -7,7 +7,7 @@ export const Footor = () => {
         {/* Header Section */}
         <div className="space-y-8 sm:space-y-0 sm:flex sm:justify-between sm:items-center">
           <div className="text-2xl font-semibold">
-            <h2 className="text-lg sm:text-2xl">Your Name</h2>
+            <h2 className="text-lg sm:text-2xl">Aravindan</h2>
             <p className="text-sm text-gray-400">Full Stack Developer</p>
           </div>
 
@@ -44,7 +44,7 @@ export const Footor = () => {
 
         {/* Footer Bottom */}
         <div className="mt-12 text-sm text-gray-400">
-          <p>&copy; 2024 Your Name. All rights reserved.</p>
+          <p>&copy; 2024 Aravindan. All rights reserved.</p>
         </div>
       </div>
     </footer>
