@@ -17,8 +17,8 @@ export const Education = () => {
         {/* Full-Stack MERN */}
         <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all">
           <h3 className="text-2xl font-semibold">Full-Stack MERN Development</h3>
-          <p className="text-lg">[Platform Name]</p>
-          <p className="text-sm mt-2 text-gray-500">[Year Started]</p>
+          <p className="text-lg">MERN Stack</p>
+          <p className="text-sm mt-2 text-gray-500">[2023]</p>
           <p className="text-lg mt-4">
             Currently learning Full-Stack MERN (MongoDB, Express, React, Node.js) to strengthen my web development skills and build modern, scalable web applications.
           </p>
@@ -28,10 +28,10 @@ export const Education = () => {
         {/* MCA */}
         <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all">
           <h3 className="text-2xl font-semibold">Master of Computer Applications (MCA)</h3>
-          <p className="text-lg">[University Name]</p>
-          <p className="text-sm mt-2 text-gray-500">[Year Started] - Ongoing</p>
+          <p className="text-lg">Anna University</p>
+          <p className="text-sm mt-2 text-gray-500">[2023] - Ongoing</p>
           <p className="text-lg mt-4">
-            I am currently pursuing my MCA at [University Name], advancing my knowledge in computer science, software engineering, and programming techniques.
+            I am currently pursuing my MCA at Anna University, advancing my knowledge in computer science, software engineering, and programming techniques.
           </p>
           <p className="italic mt-4">Currently Studying</p>
         </div>
@@ -39,23 +39,23 @@ export const Education = () => {
         {/* B.E. */}
         <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all">
           <h3 className="text-2xl font-semibold">Bachelor of Engineering (B.E.)</h3>
-          <p className="text-lg">[University Name]</p>
-          <p className="text-sm mt-2 text-gray-500">[Year Started] - [Year Graduated]</p>
+          <p className="text-lg">Anna University</p>
+          <p className="text-sm mt-2 text-gray-500">[2018 - 2021]</p>
           <p className="text-lg mt-4">
-            Completed my Bachelor's in Engineering (B.E.) at [University Name]. This program deepened my technical skills and prepared me for a career in software development.
+            Completed my Bachelor's in Engineering (B.E.) at Anna University. This program deepened my technical skills and prepared me for a career in software development.
           </p>
-          <p className="italic mt-4">Completed: [Year]</p>
+          <p className="italic mt-4">Completed: [2021]</p>
         </div>
 
         {/* Diploma */}
         <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all">
-          <h3 className="text-2xl font-semibold">Diploma in [Your Discipline]</h3>
-          <p className="text-lg">[Institute Name]</p>
+          <h3 className="text-2xl font-semibold">Diploma in Automoblie Engineering</h3>
+          <p className="text-lg">AL-AMEEN Polytechnic College</p>
           <p className="text-sm mt-2 text-gray-500">[Year Completed]</p>
           <p className="text-lg mt-4">
             I pursued a Diploma in [Your Discipline]. This course allowed me to gain hands-on knowledge and practical skills, laying the groundwork for my engineering studies.
           </p>
-          <p className="italic mt-4">Completed: [Year]</p>
+          <p className="italic mt-4">Completed: [2015-2018]</p>
         </div>
 
         {/* 12th Grade */}
@@ -66,7 +66,7 @@ export const Education = () => {
           <p className="text-lg mt-4">
             Completed my 12th grade at a Government School in Tamil Nadu. This helped me strengthen my academic foundation and build the skills needed for further studies.
           </p>
-          <p className="italic mt-4">Grade: [Your Grade]</p>
+          <p className="italic mt-4">Grade: [2015]</p>
         </div>
 
         {/* 10th Grade */}
@@ -77,7 +77,7 @@ export const Education = () => {
           <p className="text-lg mt-4">
             Completed 10th grade at a Government Higher Secondary School in Tamil Nadu. I gained a solid foundation in general education and developed an interest in technology.
           </p>
-          <p className="italic mt-4">Grade: [Your Grade]</p>
+          <p className="italic mt-4">Grade: [2013]</p>
         </div>
       </div>
 
