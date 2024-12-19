@@ -15,8 +15,8 @@ export const Navbar = () => {
     <nav className="bg-indigo-900 py-4 fixed w-full top-0 left-0 z-50">
     <div className="max-w-7xl mx-auto flex justify-between items-center px-6">
       {/* Logo */}
-      <div className="text-2xl font-bold text-white">
-        <a href="#">Logo</a>
+      <div className="text-2xl font-bold text-blue-300">
+        <a href="#">Aravinadn</a>
       </div>
 
       {/* Hamburger Icon for Mobile */}

@@ -31,15 +31,6 @@ export const Home = () => {
           <br />
           With a background in full-stack development, I have experience working with technologies such as JavaScript, React, Node.js, and MongoDB. I'm always eager to learn new technologies and collaborate with others to create meaningful projects that make a difference.
         </p>
-        
-        <div className="mt-8">
-          <a
-            href="#contact"
-            className="bg-indigo-500 text-white py-3 px-6 rounded-lg text-xl hover:bg-indigo-600 transform transition-all hover:scale-105 duration-300"
-          >
-            Get in Touch
-          </a>
-        </div>
       </div>
     </div>
   </section>

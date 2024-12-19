@@ -11,8 +11,22 @@ export const Footor = () => {
             <p className="text-sm text-gray-400">Full Stack Developer</p>
           </div>
 
-          {/* Social Links */}
-          <div className="space-y-4 sm:space-y-0 sm:space-x-6 text-base sm:text-lg flex flex-col sm:flex-row justify-center items-center">
+          
+           {/* Scrollable Links */}
+        <div className="mt-8 sm:mt-12">
+          <div className="flex flex-wrap justify-center space-x-4 sm:space-x-8 text-sm sm:text-lg">
+            <a href="#home" className="hover:text-indigo-400">Home</a>
+            <a href="#about" className="hover:text-indigo-400">About</a>
+            <a href="#education" className="hover:text-indigo-400">Education</a>
+            <a href="#projects" className="hover:text-indigo-400">Projects</a>
+            <a href="#contact" className="hover:text-indigo-400">Contact</a>
+          </div>
+        </div>
+          
+        </div>
+
+       {/* Social Links */}
+        <div className="space-y-4 sm:space-y-0 sm:space-x-6 text-base sm:text-lg flex flex-col sm:flex-row justify-center items-center">
             <a href="https://wa.me/8248221211" target="_blank" className="hover:text-indigo-400 flex items-center">
               <i className="fab fa-whatsapp mr-2"></i> WhatsApp
             </a>
@@ -29,22 +43,11 @@ export const Footor = () => {
               <i className="fab fa-linkedin mr-2"></i> LinkedIn
             </a>
           </div>
-        </div>
-
-        {/* Scrollable Links */}
-        <div className="mt-8 sm:mt-12">
-          <div className="flex flex-wrap justify-center space-x-4 sm:space-x-8 text-sm sm:text-lg">
-            <a href="#home" className="hover:text-indigo-400">Home</a>
-            <a href="#about" className="hover:text-indigo-400">About</a>
-            <a href="#education" className="hover:text-indigo-400">Education</a>
-            <a href="#projects" className="hover:text-indigo-400">Projects</a>
-            <a href="#contact" className="hover:text-indigo-400">Contact</a>
-          </div>
-        </div>
+        <hr className="relative top-14"></hr>
 
         {/* Footer Bottom */}
-        <div className="mt-12 text-sm text-gray-400">
-          <p>&copy; 2024 Aravindan. All rights reserved.</p>
+        <div className="mt-12 text-sm text-gray-400 relative top-8">
+          <p>Developed by Aravinadn, Built using React.js.</p>
         </div>
       </div>
     </footer>
